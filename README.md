@@ -5,7 +5,7 @@
 
   > A blog for developers tips  
 
-  ![image](![image](https://user-images.githubusercontent.com/86433407/219055645-d01cd6a2-d581-4057-be05-9f3d64cc89d4.png))
+  ![image](https://user-images.githubusercontent.com/86433407/219055645-d01cd6a2-d581-4057-be05-9f3d64cc89d4.png)
  
 ## Project setup
 ```
