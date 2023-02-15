@@ -1,5 +1,12 @@
-# fireblogs
+# Fireblogs
+  > Project made in Vue.js using firebase as database/deploy tool 
 
+
+
+  > A blog for developers tips  
+
+  ![image](https://ibb.co/Zh83Q2D)
+ 
 ## Project setup
 ```
 npm install
