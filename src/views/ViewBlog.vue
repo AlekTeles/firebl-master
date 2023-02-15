@@ -43,5 +43,8 @@ async mounted() {
         font-size: 14px;
         margin-bottom: 24px;
     }
+    p {
+        text-align: center;
+    }
 }
 </style>
