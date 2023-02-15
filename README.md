@@ -5,7 +5,7 @@
 
   > A blog for developers tips  
 
-  ![image]([url=https://ibb.co/Zh83Q2D][img]https://i.ibb.co/qRszHJQ/image-2023-02-15-112312109.png[/img][/url])
+  ![image]([[url=https://ibb.co/Zh83Q2D][img]https://i.ibb.co/qRszHJQ/image-2023-02-15-112312109.png[/img][/url]](https://freeimage.host/i/HG9CgIV))
  
 ## Project setup
 ```
